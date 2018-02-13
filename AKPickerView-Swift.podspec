@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name = 'AKPickerView-Swift'
-    s.version = '2.0.1'
+    s.version = '2.0.2'
     s.summary = 'A simple yet customizable horizontal picker view.'
 
     s.description  = 'A simple yet customizable horizontal picker view. Works on iOS 8'
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
     s.authors            = { "Akkyie Y" => "akio@prioris.org" }
     s.social_media_url   = "http://twitter.com/akkyie"
 
-    s.source = { :git => 'https://github.com/Akkyie/AKPickerView-Swift.git', :tag => s.version }
+    s.source = { :git => 'https://github.com/IvanGzx/AKPickerView-Swift.git', :tag => s.version }
 
     s.ios.deployment_target = '8.0'
 
